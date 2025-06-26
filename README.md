@@ -15,7 +15,6 @@
                             ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚══════╝
                                                                                 
 ```
-
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="bash" height="30" width="35" src="https://cdn.discordapp.com/attachments/1196691063021244516/1387648193436844093/proxy-image-removebg-preview.png?ex=685e1b96&is=685cca16&hm=d9770e3d7f1c006b2622be917ddf0a9ff6de5025584b76467a0ee6767c573b3e&">
