@@ -23,7 +23,10 @@ $$ |      \$$$$$$  |$$ |  $$ |$$ | \$$\
 ```
 <div style="display: inline_block"><br>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00111000&show_icons=true&theme=dark)
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=00111000&show_icons=true&theme=dark" width="600">
+</div>
+
 
  </div>
 
