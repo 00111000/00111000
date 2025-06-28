@@ -32,6 +32,8 @@ $$ |      \$$$$$$  |$$ |  $$ |$$ | \$$\
 -->
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00111000&show_icons=true&theme=dark)
 
+ </div>
+
  <div style="display: flex; align-items: center; margin-bottom: 8px;">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <span style="margin-left: 10px;">Experiência com Python para automações, scripts e ferramentas de rede</span>
@@ -64,7 +66,6 @@ $$ |      \$$$$$$  |$$ |  $$ |$$ | \$$\
 
  
         
-</div>
   
 
 
